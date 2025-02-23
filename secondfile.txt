@@ -1,1 +1,2 @@
 file created by developer1
+Text added to merge from github
